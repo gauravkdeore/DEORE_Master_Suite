@@ -1,0 +1,10 @@
+PATENT PENDING (2026)
+Inventor: Gaurav Kailas Deore
+
+This software, including the DEORE Architecture, the Topology-Aware Dead-End Collapse (TADC) mechanism, Dual-Confirmation Meeting (DCM), Adaptive Cost Estimation (ACE), and the surrounding logic contained in this repository, is provided strictly for academic, personal, and peer-review purposes.
+
+Any commercial integration, inclusion in proprietary video game engines, robotics software, military mapping systems, or monetization of this architecture is strictly prohibited without a formal, written licensing agreement from the original inventor.
+
+You are permitted to download, execute, and benchmark this code matrix locally to verify the optimal speed and node expansion metrics provided in the formal Research Paper. You may branch and cite this algorithm in academic literature so long as proper attribution is provided. 
+
+ALL COMMERCIAL RIGHTS RESERVED.
